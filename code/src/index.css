@@ -165,7 +165,10 @@ svg {
   }
 
   .movie-overview {
+    justify-content: flex-end;
     height: 100%;
+    display: flex;
+    flex-direction: column;
 }
 
   .movie-summary {
